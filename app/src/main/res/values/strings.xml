@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Akshay Soni</string>
+    <string name="nav_header_subtitle">akshaysoni@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Primary</string>
+    <string name="menu_gallery">Social</string>
+    <string name="menu_slideshow">Promotion</string>
+    <string name="menu_dashboard">Important</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
