@@ -1,0 +1,24 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="status_entries">
+        <item>My Contacts</item>
+        <item>My Contacts except…</item>
+        <item>Only Share with…</item>
+    </string-array>
+
+    <string-array name="status_values">
+        <item>myContact</item>
+        <item>myContactsExcept</item>
+        <item>onlyShareWith</item>
+    </string-array>
+</resources>
